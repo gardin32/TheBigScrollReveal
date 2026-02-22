@@ -4,6 +4,8 @@ ScrollReveal().reveal('img[alt="Parents"]', {
   origin: 'bottom'
   rotate: {
     x: 45,
+    y: 45,
+    z: 45,
   }
 });
 
