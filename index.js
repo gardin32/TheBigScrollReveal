@@ -20,14 +20,14 @@ ScrollReveal().reveal('img[alt="Family1"]', {
 });
 
 ScrollReveal().reveal('img[alt="Family2"]', {
-  delay: 12,
+  delay: 15,
     distance: '40px',
   duration: 700,
   origin: 'top'
 });
 
 ScrollReveal().reveal('img[alt="Family3"]', {
-  delay: 15,
+  delay: 20,
     distance: '40px',
   duration: 700,
   origin: 'bottom'
