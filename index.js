@@ -1,22 +1,20 @@
 ScrollReveal().reveal('img[alt="Parents"]', {
-  distance: '40px',
+    delay: 0,
+    distance: '40px',
   duration: 700,
   origin: 'bottom'
-  rotate: {
-    x: 45,
-    y: 45,
-    z: 45,
-  }
 });
 
 ScrollReveal().reveal('img[alt="Siblings"]', {
-  distance: '40px',
+  delay: 5
+    distance: '40px',
   duration: 700,
   origin: 'left'
 });
 
 ScrollReveal().reveal('img[alt="Family1"]', {
-  distance: '40px',
+  delay: 10
+    distance: '40px',
   duration: 700,
   origin: 'right'
 });
