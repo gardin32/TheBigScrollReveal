@@ -2,6 +2,9 @@ ScrollReveal().reveal('img[alt="Parents"]', {
   distance: '40px',
   duration: 700,
   origin: 'bottom'
+  rotate: {
+    x: 45,
+  }
 });
 
 ScrollReveal().reveal('img[alt="Siblings"]', {
