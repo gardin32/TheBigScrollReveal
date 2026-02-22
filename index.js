@@ -6,27 +6,29 @@ ScrollReveal().reveal('img[alt="Parents"]', {
 });
 
 ScrollReveal().reveal('img[alt="Siblings"]', {
-  delay: 5
+  delay: 5,
     distance: '40px',
   duration: 700,
   origin: 'left'
 });
 
 ScrollReveal().reveal('img[alt="Family1"]', {
-  delay: 10
+  delay: 10,
     distance: '40px',
   duration: 700,
   origin: 'right'
 });
 
 ScrollReveal().reveal('img[alt="Family2"]', {
-  distance: '40px',
+  delay: 12,
+    distance: '40px',
   duration: 700,
   origin: 'top'
 });
 
 ScrollReveal().reveal('img[alt="Family3"]', {
-  distance: '40px',
+  delay: 15,
+    distance: '40px',
   duration: 700,
   origin: 'bottom'
 });
